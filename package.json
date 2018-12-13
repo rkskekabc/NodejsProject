@@ -1,0 +1,22 @@
+{
+  "name": "nodejsdev",
+  "version": "1.0.0",
+  "description": "test Readme",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rkskekabc/NodejsProject.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rkskekabc/NodejsProject/issues"
+  },
+  "homepage": "https://github.com/rkskekabc/NodejsProject#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
